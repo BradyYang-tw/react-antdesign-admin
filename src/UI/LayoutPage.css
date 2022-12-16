@@ -1,0 +1,18 @@
+.base-layout{
+    height: 100vh;
+}
+
+.layout-header{
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+}
+
+.header-title{
+    margin-left: 30%;
+}
+
+.logo {
+    width: 100%;
+    padding: 1rem;
+}
